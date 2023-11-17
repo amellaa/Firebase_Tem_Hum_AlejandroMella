@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2054944878",
+    "project_id": "temperaturahumedad-8b47b",
+    "storage_bucket": "temperaturahumedad-8b47b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2054944878:android:ff8021c08ee18efb4e4e7f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tem_hum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL48vm4Bz1XYB4i4h6djLGAnNc-99w2F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
